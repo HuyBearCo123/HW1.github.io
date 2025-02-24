@@ -1,0 +1,44 @@
+
+body {
+    font-family: 'Calibri', sans-serif;  
+    font-size: 20px;  
+}
+
+
+header {
+    background-color: #b3be39;  
+}
+
+
+nav {
+    background-color: #8b3636;  
+}
+
+
+main {
+    background-color: #b92828;  
+    font-size: 19px;  
+}
+
+
+footer {
+    background-color: #360823;  
+}
+
+
+li {
+    display: inline-block;  
+    width: 300px;  
+}
+
+
+h1 {
+    text-align: center;  
+    font-family: 'Calibri', serif;  
+    color: #e6840c;  
+}
+
+
+p {
+    line-height: 1.7;  
+}
